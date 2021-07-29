@@ -1,5 +1,5 @@
 Source: mozjpeg
-Version: 2020-06-02
+Version: 2021-07-21
 Port-Version: 2
 Build-Depends: libpng
 Homepage: https://github.com/mozilla/mozjpeg
